@@ -12,7 +12,7 @@
 
     <!-- The maximum number of lines allow in any source file is 200 -->
     <module name="FileLength" >
-        <property name="max" value="20"/>
+        <property name="max" value="200"/>
     </module>
 
     <!-- Tab characters are not allowed in source files. -->
