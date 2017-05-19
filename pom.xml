@@ -174,7 +174,7 @@
                         <descriptor>${basedir}/config/assembly/test-config.xml</descriptor>
                         <descriptor>${basedir}/config/assembly/prod-config.xml</descriptor>
                     </descriptors>
-
+                    <finalName>env</finalName>
                 </configuration>
                 <executions>
                     <execution>
